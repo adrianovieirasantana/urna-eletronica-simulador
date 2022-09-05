@@ -1,11 +1,14 @@
 # Simulador - Urna Eletrônica <br />
 
-_Projeto feito com HTML5, CSS3 e JAVASCRIPT_
+_Projeto feito com HTML5, CSS3 e JAVASCRIPT._
 
-**Para Deputado Federal digite: 4411** <br />
-**Para Senador digite: 222**  <br />
-**Para Governador digite: 55**  <br />
-**Para Presidente digite: 22**  <br />
+# Clique para acessar o simulador - https://adriano-santana.github.io/urna-eletronica-simulador/<br />
+
+__**Para testar a urna digite os números dos candidatos de acordo como a colinha:**__
+**Para Deputado Federal - 4411** <br />
+**Para Senador - 222**  <br />
+**Para Governador - 55**  <br />
+**Para Presidente - 22**  <br />
 
 
-# Clique para acessar o simulador - https://adriano-santana.github.io/urna-eletronica-simulador/
+
