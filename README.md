@@ -6,4 +6,4 @@
 **Para Presidente digite 22**  <br />
 
 
-# CLique para acessar o simulador - https://adriano-santana.github.io/urna-eletronica-simulador/
+# Clique para acessar o simulador - https://adriano-santana.github.io/urna-eletronica-simulador/
